@@ -1,6 +1,10 @@
-# 💻 Project 1 – Temperature Converter (in C)
+<p align="center">
+  <img src="./img/Banner.png" alt="C Programming Mini Projects Series" width="100%">
+</p>
 
-This is **Project 4** in a series of mini exercises for **beginners learning C programming**. Each project helps you strengthen your understanding of core programming concepts like conditional logic, basic arithmetic, user input/output, and floating-point operations.
+# 💻 Project 3 – Temperature Converter (in C)
+
+This is **Project 3** in a series of mini exercises for **beginners learning C programming**. Each project helps you strengthen your understanding of core programming concepts like conditional logic, basic arithmetic, user input/output, and floating-point operations.
 
 ---
 
